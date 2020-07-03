@@ -7,7 +7,7 @@
 <img src="boxfuse.png">
 
 <h2>Webhook tested successfuly!</h2>
-
+<h3>Testing pipelines</h3>
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
 </strong>.</p>
